@@ -1,4 +1,4 @@
-<?php namespace Atomic\Content;
+<?php namespace BrokunMusheen\Atomic;
 
 use Symfony\Component\Yaml\Yaml;
 
